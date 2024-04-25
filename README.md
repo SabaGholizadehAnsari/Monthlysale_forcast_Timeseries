@@ -14,6 +14,6 @@ U.S. Census Bureau, Advance Retail Sales: Clothing and Clothing Accessory Stores
 
 https://fred.stlouisfed.org/series/RSCCASN
 
-![forecast1](https://github.com/SabaGholizadehAnsari/loan_prediction_DeepNN/blob/master/page1.JPG)
-![forecast2](https://github.com/SabaGholizadehAnsari/loan_prediction_DeepNN/blob/master/page1.JPG)
+![forecast1](https://github.com/SabaGholizadehAnsari/Monthlysale_forcast_Timeseries/blob/master/forecast.png)
+![forecast2](https://github.com/SabaGholizadehAnsari/Monthlysale_forcast_Timeseries/blob/master/forecast2.png)
 
